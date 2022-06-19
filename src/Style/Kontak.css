@@ -1,0 +1,20 @@
+#kontak_bg {
+
+    background-image: url("https://live.staticflickr.com/65535/52049948178_f6d58a4ec7_o.jpg");
+
+    height: 730px;
+
+}
+
+
+.kontak {
+
+    color: black;
+
+    text-align: center;
+
+    margin-top: 208px;
+
+    background-color: white;
+
+}
